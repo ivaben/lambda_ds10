@@ -1,5 +1,8 @@
-@echo off
-echo Hello this a test batch file
-pause
-dir c:\windows
-pause
+
+"""
+utility functions for working with DataFrames
+"""
+
+import pandas as pd
+
+print(hi)
