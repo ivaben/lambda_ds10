@@ -29,3 +29,5 @@ def add_col_to_df(col, df):
     series = pd.Series(col)
     df['new_column'] = series
     return df
+
+print("file")
